@@ -1,2 +1,2 @@
 # bitsc
-Bit.sc (pronounced bit-see
+Bit.sc (pronounced bit-see)
